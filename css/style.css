@@ -1,0 +1,67 @@
+.reg{width: 50%; height: 600px; background-image: url(image/wallpaper-182371.jpg); padding: 50px;}
+.form_inputs{
+        margin-bottom: 10px;
+    margin-left: 10px;
+    clear: both;
+    
+    }
+.fname{
+    
+    height: 50px;
+    border-radius: 5px;
+    width: 47.2%;
+    font-size: 18px;
+}
+::-webkit-input-placeholder{
+    color: #999999;
+    font-size: 18px;
+    
+}
+::-moz-placeholder{
+    color: #999999;
+    font-size: 18px;
+}
+
+
+:-moz-placeholder{
+    color: #999999;
+    font-size: 18px;
+}
+:-ms-placeholder{
+    color: #999999;
+    font-size: 18px;
+}
+
+.email{
+    height: 50px;
+    border-radius: 5px;
+    width: 96%;font-size: 18px;
+    
+}
+
+.pass{
+    height: 50px;
+    border-radius: 5px;
+    width: 96%;font-size: 18px;
+}
+
+.Date{
+    height: 45px;
+    border-radius: 5px;
+    float: left;
+}
+.rsize{margin-top: 10px;
+
+}
+.Submit{
+    background-color: #FBBC05;
+    color: white;
+    height: 60px;
+    width: 200px;
+    font-size: 35px;
+    border: 1px solid #FEEBB5;
+    border-radius: 8px;
+    
+    
+}
+
